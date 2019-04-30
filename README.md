@@ -1,9 +1,5 @@
 # Airport Javascript
 
-
-Airport Challenge
-=================
-
 ```
         ______
         _\____\___
